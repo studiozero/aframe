@@ -42,7 +42,7 @@
     "three": "^0.84.0",
     "three-bmfont-text": "^2.1.0",
     "tween.js": "^15.0.0",
-    "webvr-polyfill": "aframevr/webvr-polyfill#9faf790a"
+    "webvr-polyfill": "studiozero/webvr-polyfill#hotfix/dpdb"
   },
   "devDependencies": {
     "browserify": "^13.1.0",
