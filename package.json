@@ -1,6 +1,6 @@
 {
   "name": "aframe",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "A web framework for building virtual reality experiences.",
   "homepage": "https://aframe.io/",
   "main": "dist/aframe-master.js",
